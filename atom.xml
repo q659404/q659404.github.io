@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://q659404.github.io</id>
     <title>梁维的博客</title>
-    <updated>2020-07-26T08:13:29.847Z</updated>
+    <updated>2020-07-26T08:16:13.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://q659404.github.io"/>
     <link rel="self" href="https://q659404.github.io/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://q659404.github.io/images/avatar.png</logo>
     <icon>https://q659404.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 梁维的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[学会独立]]></title>
+        <id>https://q659404.github.io/post/xue-hui-du-li/</id>
+        <link href="https://q659404.github.io/post/xue-hui-du-li/">
+        </link>
+        <updated>2020-07-26T08:14:43.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="为什么会有这个主题">为什么会有这个主题</h1>
+<p>发现一直追随的人无法继续追随，很可笑，但就是事实。</p>
+<p>可能因为不在一起，思想跟不上了；可能因为不够自律，荒废了很多；可能因为有后路，不够积极主动；也可能真的是自己跟不上团队。</p>
+<p>不去管它的原因，只看结果就是需要独立了~~~。</p>
+<p>#如何独立</p>
+<p>没有依靠，也不不可能是永远的依靠，靠其他人不如靠自己，可悲但就是现实。</p>
+<p>已经过了三十而立的年纪，谈独立，有些幼稚，但不得不谈。</p>
+<p>始终有一个直觉，也是故乡人的话，成家立业，成了家才能变大人。。。。所以，可能我还是个老小孩，并且有各种各样的缺点。与身俱来，无法抹去，头疼。</p>
+<p>#如何保持意志力</p>
+<p>保持一定的能量，能量不足时导致意志力滑坡，进而做出蠢事的关键原因。美色、醉酒等等都是如此。</p>
+<p>预先埋雷，提前设置好转移路径，覆盖原来要做的事的起点。比如把看小说，切换到看一本书，听读书音频等。</p>
+<p>#让自己更优秀</p>
+<p>唯有让自己变得优秀，才能活好，如此，而已。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自律是一个人最重要的素质]]></title>
         <id>https://q659404.github.io/post/zi-lu-shi-yi-ge-ren-zui-chong-yao-de-su-zhi/</id>
@@ -154,19 +175,6 @@
 <h2 id="时间的特性">时间的特性</h2>
 <p>很傻很天真，说的是对待一件事太聪明并不好，并不能带来好结果，因为看的太远，看的太清楚，太了解里面的问题，过于关注里面的问题，反而忽略了时间的特性。</p>
 <h2 id="用时间去打磨">用时间去打磨</h2>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2019再出发]]></title>
-        <id>https://q659404.github.io/post/2019-zai-chu-fa/</id>
-        <link href="https://q659404.github.io/post/2019-zai-chu-fa/">
-        </link>
-        <updated>2019-07-18T22:23:24.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://q659404.github.io/post-images/1564565131606.JPG" alt="" loading="lazy"></figure>
-<p>关注：少就是多、慢就是快、表达与表达、领导力</p>
-<p>领域：运营、前沿科技</p>
-<p>思考：从理论到执行</p>
-<p>心态：开放、归零</p>
 ]]></content>
     </entry>
 </feed>
